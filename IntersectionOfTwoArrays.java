@@ -5,7 +5,7 @@ import java.util.HashMap;
 //O(m+n),O(min(m,n))
 //we are using min sized array into hashmap
 
-public class IntersectionOfTwoArraysUnsortedArrays {
+public class IntersectionOfTwoArrays {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
