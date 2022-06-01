@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 
 //O(nlogn),O(1)
+//for minmizing we check the adjust elements
+//for and for max we check with previous max/min
 
 public class MinimizeMaxDifference {
 
