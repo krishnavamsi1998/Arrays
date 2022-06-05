@@ -1,7 +1,7 @@
 package ArrayConcept;
 
 //count a[i]>a[j] , i<j 
-//O(nlogn),O(1)
+//O(nlogn),O(n)
 //if a[i] in left array > a[j] in right array then
 //a[i], a[i+1],a[i+2]..a[i+m] are inversions
 //that means (m+1) -i inversions
