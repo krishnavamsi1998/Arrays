@@ -2,7 +2,7 @@ package ArrayConcept;
 
 import java.util.HashMap;
 
-//O(n),O(1)
+//O(n),O(n)
 public class CountPairsEqualSumHashMap {
 
 	public static void main(String[] args) {
